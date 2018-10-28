@@ -10,3 +10,7 @@
  a{color:rgb(73, 175, 205);;text-decoration:none;}
 a:hover{color:#005580;text-decoration:underline;}
 .table-striped tbody>tr:nth-child(odd)>td,.table-striped tbody>tr:nth-child(odd)>th{background-color:#f0f0f0;}
+
+.col-sm-8 h3 {
+	font-size: 20px;
+}
