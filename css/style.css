@@ -22,13 +22,14 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 40px;
+
 }
 
 /* Custom page footer */
 .footer {
   padding-top: 19px;
   color: #777;
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid rgb(80, 87, 99);
 }
 
 /* Customize container */
@@ -85,7 +86,7 @@ body {
 body {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: gray;
+  background-color: #FFFFFF;
 }
 
 .navbar {
@@ -97,16 +98,28 @@ body {
   padding: 5px 10px;
   color: #fff;
   text-align: left;
-  background-color: #848482;
+  background-color: rgb(80, 87, 99);
 }
 
 .header-bar .address {
   color: #B6B6B4;
+
 }
 
-.header-bar .dato {
-  color: red;
+.header-bar .dato{
+  color: rgb(73, 175, 205);
+  font-weight: bold;
 }
+
+.personal {
+  font-size:  greater;
+  font-weight: bold;
+}
+
+.header-bar h3 {
+  font-weight: bold;
+}
+
 
 .float-right {
   float: right;
